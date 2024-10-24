@@ -41,7 +41,6 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-333333?style=flat&logo=visual-studio)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
