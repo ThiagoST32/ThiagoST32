@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aThiagoST32)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoST32)](https://github.com/anuraghazra/github-readme-stats)
 ### Olá, meu nome é Thiago Sandre Trevisan!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ThiagoST32&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
